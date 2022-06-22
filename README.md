@@ -2,4 +2,6 @@
 
 ## Customer class
 
+Is not done
+
 
