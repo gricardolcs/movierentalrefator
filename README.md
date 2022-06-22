@@ -1,1 +1,5 @@
-# movierentalrefator
+# Movie Rental Refactor
+
+## Customer class
+
+
